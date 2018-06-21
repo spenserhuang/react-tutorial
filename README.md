@@ -1,4 +1,4 @@
 ## Starting code
-Run ```npm start
-
+Run ```
+npm start
 ```
