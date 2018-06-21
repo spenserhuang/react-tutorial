@@ -1,5 +1,5 @@
 ## Starting code
-Run
+Run the following code in the directory
 ```
 npm start
 ```
